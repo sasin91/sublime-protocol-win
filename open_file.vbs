@@ -10,7 +10,7 @@ Dim sublime_path
 '   much slower than opening directly with sublime
 
 ' >>> EDIT THIS PATH TO MATCH YOUR SUBLIME INSTALL PATH / OR PATH TO SUBLIME PORTABLE <<<
-sublime_path = "C:\Program Files (x86)\Sublime Text 3\sublime_text.exe"
+sublime_path = "C:\Program Files\Sublime Text\sublime_text.exe"
 
 Dim text, decoded
 ' get first command line argument
